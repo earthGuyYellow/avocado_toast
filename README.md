@@ -1,1 +1,2 @@
-# avocado_toast
+#This project is intented to demonstrate the power of supply chain analysis. Using a database sourced from the Open Food Database of a popular dish known as Avocado Toast, data was filtered by specific criteria returning some useful information to provide greater insight into a global supply chain.
+#Included in the repository are the needed databases. They can be filtered futher or customized to achieve different insights. 
